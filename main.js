@@ -91,9 +91,10 @@ app.controller('MainCtrl', function ($scope, $http, screenSize) {
   var parties = [
     {no: 0, id: 'remain', name: '未分配比例'},
     {
-      no: 1, id: 'dpp', name: '民主進步黨', enabled: true, partyno: "016"},
+      no: 1, id: 'dpp', name: '民主進步黨', enabled: true, partyno: "016"
+    },
     {
-      no: 2, id: 'pfp', name: '親民黨', enabled: true, partyno: "090"
+      no: 2, id: 'pfp', name: '親民黨', partyno: "090"
     },
     {
       no: 8, id: 'up', name: '中華統一促進黨', partyno: "113"
@@ -105,6 +106,9 @@ app.controller('MainCtrl', function ($scope, $http, screenSize) {
       no: 10, id: 'tsu', name: '台灣團結聯盟', partyno: "095",
     },
     {
+      no: 24, id: 'tpp', name: '台灣民眾黨', enabled: true, partyno: "350"
+    },
+    {
       no: 11, id: 'npp', name: '時代力量', enabled: true, partyno: "267"
     },
     {
@@ -112,9 +116,6 @@ app.controller('MainCtrl', function ($scope, $http, screenSize) {
     },
     {
       no: 21, id: 'tsp', name: '台灣基進', partyno: "303"
-    },
-    {
-      no: 24, id: 'tpp', name: '台灣民眾黨', enabled: true, partyno: "350"
     },
     {
       no: 25, id: 'trp', name: '台灣維新', partyno: "356"
@@ -278,7 +279,12 @@ app.controller('MainCtrl', function ($scope, $http, screenSize) {
     });
 
     $scope.candidates.forEach(function(candidate) {
-      var no = parseInt(candidate.drawno);
+      for (var i = 0; i < parties.length; i++) {
+        if (parties[i].no == candidate.drawno) {
+          no = i;
+          break;
+        }
+      }
       parties[no].candidates.push(candidate);
     });
 
