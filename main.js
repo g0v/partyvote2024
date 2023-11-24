@@ -179,6 +179,24 @@ app.controller('MainCtrl', function ($scope, $http, screenSize) {
     {
       no: 30, id: 'sfp', name: '安定力量', partyno: "342"
     },
+    {
+      no: 31, id: 'mip', name: '臺灣雙語無法黨', partyno: "366"
+    },
+    {
+      no: 32, id: 'obasan', name: '小民參政歐巴桑聯盟', partyno: "357"
+    },
+    {
+      no: 33, id: 'tgreen', name: '台灣綠黨', partyno: "79"
+    },
+    {
+      no: 34, id: 'sfgg', name: '司法改革黨', partyno: "382"
+    },
+    {
+      no: 35, id: 'rmzd', name: '人民最大黨', partyno: "153"
+    },
+    {
+      no: 36, id: 'zdjs', name: '制度救世島', partyno: "195"
+    },
   ];
   $scope.parties = {};
   $scope.showVideo = false;
