@@ -21,8 +21,15 @@ $party_map = array(
     '合一行動聯盟' => 28,
     '一邊一國行動黨' => 29,
     '安定力量' => 30,
+    '臺灣雙語無法黨' => 31,
+    '小民參政歐巴桑聯盟' => 32,
+    '台灣綠黨' => 33,
+    '司法改革黨' => 34,
+    '人民最大黨' => 35,
+    '制度救世島' => 36,
 );
-$fp = fopen('https://docs.google.com/spreadsheets/d/e/2PACX-1vT9klmFUCak2M2sjHEUFm6xFZn_az8lOJbFAZyi41S7bgQMBfmZn8BWUIvJNYInlKyFQQrxyDxKbzeg/pub?gid=1153115969&single=true&output=csv', 'r');
+// https://docs.google.com/spreadsheets/d/1zR2QeHyKyv34sKd2I6g-_N6o6x7-cBpbd-9ogmit898/edit#gid=1577964247
+$fp = fopen('https://docs.google.com/spreadsheets/d/e/2PACX-1vROtl096aU7ce1rpryefCmYB5rP7ZCRxk4uHsmhRM2gBdC4QNJliMcvWFo_GJqY3pDQFbcK03w2yuzK/pub?gid=1577964247&single=true&output=csv', 'r');
 $ret = array();
 $columns = fgetcsv($fp);
 while ($rows = fgetcsv($fp)) {

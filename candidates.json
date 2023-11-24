@@ -1,158 +1,8 @@
 {
     "全國不分區及僑居國外國民立委公報": [
         {
-            "drawno": 19,
-            "candidatename": "徐欣瑩",
-            "nosequence": 1,
-            "gender": "F"
-        },
-        {
-            "drawno": 19,
-            "candidatename": "張宗傑",
-            "nosequence": 2,
-            "gender": "M"
-        },
-        {
-            "drawno": 19,
-            "candidatename": "王靜亞",
-            "nosequence": 3,
-            "gender": "F"
-        },
-        {
-            "drawno": 19,
-            "candidatename": "陳漢洲",
-            "nosequence": 4,
-            "gender": "M"
-        },
-        {
-            "drawno": 19,
-            "candidatename": "李宗芹",
-            "nosequence": 5,
-            "gender": "F"
-        },
-        {
-            "drawno": 19,
-            "candidatename": "余艇",
-            "nosequence": 6,
-            "gender": "M"
-        },
-        {
-            "drawno": 11,
-            "candidatename": "陳椒華",
-            "nosequence": 1,
-            "gender": "F"
-        },
-        {
-            "drawno": 11,
-            "candidatename": "邱顯智",
-            "nosequence": 2,
-            "gender": "M"
-        },
-        {
-            "drawno": 11,
-            "candidatename": "王婉諭",
-            "nosequence": 3,
-            "gender": "F"
-        },
-        {
-            "drawno": 11,
-            "candidatename": "黃國昌",
-            "nosequence": 4,
-            "gender": "M"
-        },
-        {
-            "drawno": 11,
-            "candidatename": "翟本喬",
-            "nosequence": 5,
-            "gender": "M"
-        },
-        {
-            "drawno": 11,
-            "candidatename": "關心羚",
-            "nosequence": 6,
-            "gender": "F"
-        },
-        {
-            "drawno": 11,
-            "candidatename": "王幗英",
-            "nosequence": 7,
-            "gender": "F"
-        },
-        {
-            "drawno": 11,
-            "candidatename": "吳佩芸",
-            "nosequence": 8,
-            "gender": "F"
-        },
-        {
-            "drawno": 11,
-            "candidatename": "白卿芬",
-            "nosequence": 9,
-            "gender": "F"
-        },
-        {
-            "drawno": 11,
-            "candidatename": "趙芸菁",
-            "nosequence": 10,
-            "gender": "F"
-        },
-        {
-            "drawno": 11,
-            "candidatename": "詹智鈞",
-            "nosequence": 11,
-            "gender": "M"
-        },
-        {
-            "drawno": 20,
-            "candidatename": "朱武獻",
-            "nosequence": 1,
-            "gender": "M"
-        },
-        {
-            "drawno": 20,
-            "candidatename": "翁瑋鍼",
-            "nosequence": 2,
-            "gender": "F"
-        },
-        {
-            "drawno": 20,
-            "candidatename": "呂玲玲",
-            "nosequence": 3,
-            "gender": "F"
-        },
-        {
-            "drawno": 20,
-            "candidatename": "閔代璽",
-            "nosequence": 4,
-            "gender": "M"
-        },
-        {
-            "drawno": 20,
-            "candidatename": "呂錫勳",
-            "nosequence": 5,
-            "gender": "M"
-        },
-        {
-            "drawno": 20,
-            "candidatename": "袁慧心",
-            "nosequence": 6,
-            "gender": "F"
-        },
-        {
-            "drawno": 20,
-            "candidatename": "吳亮儀",
-            "nosequence": 7,
-            "gender": "F"
-        },
-        {
-            "drawno": 20,
-            "candidatename": "陳建平",
-            "nosequence": 8,
-            "gender": "M"
-        },
-        {
             "drawno": 21,
-            "candidatename": "成令方",
+            "candidatename": "史惟筑",
             "nosequence": 1,
             "gender": "F"
         },
@@ -164,69 +14,309 @@
         },
         {
             "drawno": 21,
-            "candidatename": "吳欣岱",
+            "candidatename": "黃楓茹",
             "nosequence": 3,
             "gender": "F"
         },
         {
             "drawno": 21,
-            "candidatename": "陳冠榮",
+            "candidatename": "陳君愷",
             "nosequence": 4,
             "gender": "M"
         },
         {
             "drawno": 21,
-            "candidatename": "何澄輝",
+            "candidatename": "楊佩樺",
             "nosequence": 5,
-            "gender": "M"
+            "gender": "F"
         },
         {
             "drawno": 21,
-            "candidatename": "李雨蓁",
+            "candidatename": "黃馨瑩",
             "nosequence": 6,
             "gender": "F"
         },
         {
+            "drawno": 21,
+            "candidatename": "徐煊博",
+            "nosequence": 7,
+            "gender": "M"
+        },
+        {
+            "drawno": 11,
+            "candidatename": "林依瑩",
+            "nosequence": 1,
+            "gender": "F"
+        },
+        {
+            "drawno": 11,
+            "candidatename": "王寶萱",
+            "nosequence": 2,
+            "gender": "F"
+        },
+        {
+            "drawno": 11,
+            "candidatename": "宋國鼎",
+            "nosequence": 3,
+            "gender": "M"
+        },
+        {
+            "drawno": 11,
+            "candidatename": "江盛",
+            "nosequence": 4,
+            "gender": "M"
+        },
+        {
+            "drawno": 11,
+            "candidatename": "陳泰源",
+            "nosequence": 5,
+            "gender": "M"
+        },
+        {
+            "drawno": 11,
+            "candidatename": "陳昱安",
+            "nosequence": 6,
+            "gender": "M"
+        },
+        {
+            "drawno": 11,
+            "candidatename": "余佳蒨",
+            "nosequence": 7,
+            "gender": "F"
+        },
+        {
+            "drawno": 11,
+            "candidatename": "鄭侑青",
+            "nosequence": 8,
+            "gender": "F"
+        },
+        {
+            "drawno": 16,
+            "candidatename": "王建煊",
+            "nosequence": 1,
+            "gender": "M"
+        },
+        {
+            "drawno": 16,
+            "candidatename": "仉桂美",
+            "nosequence": 2,
+            "gender": "F"
+        },
+        {
+            "drawno": 16,
+            "candidatename": "吳成典",
+            "nosequence": 3,
+            "gender": "M"
+        },
+        {
+            "drawno": 16,
+            "candidatename": "賀樺",
+            "nosequence": 4,
+            "gender": "F"
+        },
+        {
+            "drawno": 16,
+            "candidatename": "林易陞",
+            "nosequence": 5,
+            "gender": "M"
+        },
+        {
+            "drawno": 16,
+            "candidatename": "陳麗玲",
+            "nosequence": 6,
+            "gender": "F"
+        },
+        {
+            "drawno": 16,
+            "candidatename": "戴德滿",
+            "nosequence": 7,
+            "gender": "M"
+        },
+        {
+            "drawno": 16,
+            "candidatename": "王子芩",
+            "nosequence": 8,
+            "gender": "F"
+        },
+        {
+            "drawno": 2,
+            "candidatename": "李桐豪",
+            "nosequence": 1,
+            "gender": "M"
+        },
+        {
+            "drawno": 2,
+            "candidatename": "陳怡潔",
+            "nosequence": 2,
+            "gender": "F"
+        },
+        {
+            "drawno": 2,
+            "candidatename": "曲兆祥",
+            "nosequence": 3,
+            "gender": "M"
+        },
+        {
+            "drawno": 2,
+            "candidatename": "何偉真",
+            "nosequence": 4,
+            "gender": "F"
+        },
+        {
+            "drawno": 2,
+            "candidatename": "簡泰河",
+            "nosequence": 5,
+            "gender": "M"
+        },
+        {
+            "drawno": 2,
+            "candidatename": "藍志玟",
+            "nosequence": 6,
+            "gender": "F"
+        },
+        {
+            "drawno": 2,
+            "candidatename": "吳建德",
+            "nosequence": 7,
+            "gender": "M"
+        },
+        {
+            "drawno": 2,
+            "candidatename": "黎淑慧",
+            "nosequence": 8,
+            "gender": "F"
+        },
+        {
+            "drawno": 2,
+            "candidatename": "孫信君",
+            "nosequence": 9,
+            "gender": "F"
+        },
+        {
+            "drawno": 2,
+            "candidatename": "黎建南",
+            "nosequence": 10,
+            "gender": "M"
+        },
+        {
+            "drawno": 8,
+            "candidatename": "丁炳仁",
+            "nosequence": 1,
+            "gender": "M"
+        },
+        {
+            "drawno": 8,
+            "candidatename": "黃妙如",
+            "nosequence": 2,
+            "gender": "F"
+        },
+        {
+            "drawno": 8,
+            "candidatename": "肖云霞",
+            "nosequence": 3,
+            "gender": "F"
+        },
+        {
+            "drawno": 8,
+            "candidatename": "張安樂",
+            "nosequence": 4,
+            "gender": "M"
+        },
+        {
+            "drawno": 31,
+            "candidatename": "陳亭諭",
+            "nosequence": 1,
+            "gender": "F"
+        },
+        {
+            "drawno": 31,
+            "candidatename": "蕭文乾",
+            "nosequence": 2,
+            "gender": "M"
+        },
+        {
+            "drawno": 9,
+            "candidatename": "韓國瑜",
+            "nosequence": 1,
+            "gender": "M"
+        },
+        {
+            "drawno": 9,
+            "candidatename": "柯志恩",
+            "nosequence": 2,
+            "gender": "F"
+        },
+        {
+            "drawno": 9,
+            "candidatename": "葛如鈞",
+            "nosequence": 3,
+            "gender": "M"
+        },
+        {
+            "drawno": 9,
+            "candidatename": "翁曉玲",
+            "nosequence": 4,
+            "gender": "F"
+        },
+        {
+            "drawno": 9,
+            "candidatename": "陳菁徽",
+            "nosequence": 5,
+            "gender": "F"
+        },
+        {
+            "drawno": 9,
+            "candidatename": "吳宗憲",
+            "nosequence": 6,
+            "gender": "M"
+        },
+        {
+            "drawno": 9,
+            "candidatename": "林倩綺",
+            "nosequence": 7,
+            "gender": "F"
+        },
+        {
             "drawno": 1,
-            "candidatename": "吳玉琴",
+            "candidatename": "林月琴",
             "nosequence": 1,
             "gender": "F"
         },
         {
             "drawno": 1,
-            "candidatename": "洪申翰",
+            "candidatename": "沈伯洋",
             "nosequence": 2,
             "gender": "M"
         },
         {
             "drawno": 1,
-            "candidatename": "范雲",
+            "candidatename": "張雅琳",
             "nosequence": 3,
             "gender": "F"
         },
         {
             "drawno": 1,
-            "candidatename": "羅美玲",
+            "candidatename": "洪申翰",
             "nosequence": 4,
-            "gender": "F"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "邱泰源",
-            "nosequence": 5,
             "gender": "M"
         },
         {
             "drawno": 1,
-            "candidatename": "周春米",
-            "nosequence": 6,
+            "candidatename": "羅美玲",
+            "nosequence": 5,
             "gender": "F"
         },
         {
             "drawno": 1,
             "candidatename": "游錫堃",
-            "nosequence": 7,
+            "nosequence": 6,
             "gender": "M"
+        },
+        {
+            "drawno": 1,
+            "candidatename": "范雲",
+            "nosequence": 7,
+            "gender": "F"
         },
         {
             "drawno": 1,
@@ -236,9 +326,9 @@
         },
         {
             "drawno": 1,
-            "candidatename": "管碧玲",
+            "candidatename": "沈發惠",
             "nosequence": 9,
-            "gender": "F"
+            "gender": "M"
         },
         {
             "drawno": 1,
@@ -248,43 +338,43 @@
         },
         {
             "drawno": 1,
-            "candidatename": "沈發惠",
+            "candidatename": "林楚茵",
             "nosequence": 11,
-            "gender": "M"
+            "gender": "F"
         },
         {
             "drawno": 1,
-            "candidatename": "林楚茵",
+            "candidatename": "郭昱晴",
             "nosequence": 12,
             "gender": "F"
         },
         {
             "drawno": 1,
-            "candidatename": "施義芳",
+            "candidatename": "王正旭",
             "nosequence": 13,
             "gender": "M"
         },
         {
             "drawno": 1,
-            "candidatename": "游萬豐",
+            "candidatename": "王義川",
             "nosequence": 14,
             "gender": "M"
         },
         {
             "drawno": 1,
-            "candidatename": "歐蜜‧偉浪",
+            "candidatename": "陳培瑜",
             "nosequence": 15,
-            "gender": "M"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "湯蕙禎",
-            "nosequence": 16,
             "gender": "F"
         },
         {
             "drawno": 1,
-            "candidatename": "陳靜敏",
+            "candidatename": "陳俊翰",
+            "nosequence": 16,
+            "gender": "M"
+        },
+        {
+            "drawno": 1,
+            "candidatename": "張秀君",
             "nosequence": 17,
             "gender": "F"
         },
@@ -296,1011 +386,525 @@
         },
         {
             "drawno": 1,
-            "candidatename": "許忠富",
+            "candidatename": "孫一信",
             "nosequence": 19,
             "gender": "M"
         },
         {
             "drawno": 1,
-            "candidatename": "張菊芳",
+            "candidatename": "吳祥榮",
             "nosequence": 20,
-            "gender": "F"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "呂建德",
-            "nosequence": 21,
             "gender": "M"
         },
         {
             "drawno": 1,
-            "candidatename": "陳培瑜",
-            "nosequence": 22,
-            "gender": "F"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "顏聖冠",
-            "nosequence": 23,
-            "gender": "F"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "李淑芬",
-            "nosequence": 24,
+            "candidatename": "陳慧君 Mulas·Ismahasan",
+            "nosequence": 21,
             "gender": "F"
         },
         {
             "drawno": 1,
             "candidatename": "柯富揚",
-            "nosequence": 25,
-            "gender": "M"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "黃金舜",
-            "nosequence": 26,
-            "gender": "M"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "林愛龍",
-            "nosequence": 27,
-            "gender": "F"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "董建宏",
-            "nosequence": 28,
-            "gender": "M"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "林世嘉",
-            "nosequence": 29,
-            "gender": "F"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "黃帝穎",
-            "nosequence": 30,
-            "gender": "M"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "趙心瑜",
-            "nosequence": 31,
-            "gender": "F"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "蔣念祖",
-            "nosequence": 32,
-            "gender": "F"
-        },
-        {
-            "drawno": 1,
-            "candidatename": "楊懿珊",
-            "nosequence": 33,
-            "gender": "F"
-        },
-        {
-            "drawno": 22,
-            "candidatename": "羅美文",
-            "nosequence": 1,
-            "gender": "M"
-        },
-        {
-            "drawno": 22,
-            "candidatename": "王娟萍",
-            "nosequence": 2,
-            "gender": "F"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "曾銘宗",
-            "nosequence": 1,
-            "gender": "M"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "葉毓蘭",
-            "nosequence": 2,
-            "gender": "F"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "李貴敏",
-            "nosequence": 3,
-            "gender": "F"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "吳斯懷",
-            "nosequence": 4,
-            "gender": "M"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "鄭麗文",
-            "nosequence": 5,
-            "gender": "F"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "林文瑞",
-            "nosequence": 6,
-            "gender": "M"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "廖婉汝",
-            "nosequence": 7,
-            "gender": "F"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "翁重鈞",
-            "nosequence": 8,
-            "gender": "M"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "吳怡玎",
-            "nosequence": 9,
-            "gender": "F"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "陳以信",
-            "nosequence": 10,
-            "gender": "M"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "張育美",
-            "nosequence": 11,
-            "gender": "F"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "李德維",
-            "nosequence": 12,
-            "gender": "M"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "溫玉霞",
-            "nosequence": 13,
-            "gender": "F"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "吳敦義",
-            "nosequence": 14,
-            "gender": "M"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "謝龍介",
-            "nosequence": 15,
-            "gender": "M"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "車宜靜",
-            "nosequence": 16,
-            "gender": "F"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "牛春茹",
-            "nosequence": 17,
-            "gender": "F"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "曾文培",
-            "nosequence": 18,
-            "gender": "M"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "李玉蟬",
-            "nosequence": 19,
-            "gender": "F"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "王裕文",
-            "nosequence": 20,
-            "gender": "M"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "王桂芸",
-            "nosequence": 21,
-            "gender": "F"
-        },
-        {
-            "drawno": 9,
-            "candidatename": "耿繼文",
             "nosequence": 22,
             "gender": "M"
         },
         {
-            "drawno": 9,
-            "candidatename": "侯佳齡",
+            "drawno": 1,
+            "candidatename": "劉柏君",
             "nosequence": 23,
             "gender": "F"
         },
         {
-            "drawno": 9,
-            "candidatename": "謝瀛華",
+            "drawno": 1,
+            "candidatename": "石明謹",
             "nosequence": 24,
             "gender": "M"
         },
         {
-            "drawno": 9,
-            "candidatename": "邱素蘭",
+            "drawno": 1,
+            "candidatename": "曾美玲",
             "nosequence": 25,
             "gender": "F"
         },
         {
-            "drawno": 9,
-            "candidatename": "張智倫",
+            "drawno": 1,
+            "candidatename": "黃真瑋",
             "nosequence": 26,
-            "gender": "M"
+            "gender": "F"
         },
         {
-            "drawno": 9,
-            "candidatename": "李惠蘭",
+            "drawno": 1,
+            "candidatename": "曾湘樺",
             "nosequence": 27,
             "gender": "F"
         },
         {
-            "drawno": 9,
-            "candidatename": "連元章",
+            "drawno": 1,
+            "candidatename": "鄭力嘉",
             "nosequence": 28,
             "gender": "M"
         },
         {
-            "drawno": 9,
-            "candidatename": "許謹如",
+            "drawno": 1,
+            "candidatename": "陳右欣",
             "nosequence": 29,
             "gender": "F"
         },
         {
-            "drawno": 9,
-            "candidatename": "林有志",
+            "drawno": 1,
+            "candidatename": "余宛如",
             "nosequence": 30,
-            "gender": "M"
+            "gender": "F"
         },
         {
-            "drawno": 9,
-            "candidatename": "黃璉華",
+            "drawno": 1,
+            "candidatename": "許菡芸",
             "nosequence": 31,
             "gender": "F"
         },
         {
-            "drawno": 23,
-            "candidatename": "鄧惠文",
+            "drawno": 1,
+            "candidatename": "周威佑",
+            "nosequence": 32,
+            "gender": "M"
+        },
+        {
+            "drawno": 1,
+            "candidatename": "廖韶吟",
+            "nosequence": 33,
+            "gender": "F"
+        },
+        {
+            "drawno": 1,
+            "candidatename": "蔡宜文",
+            "nosequence": 34,
+            "gender": "F"
+        },
+        {
+            "drawno": 32,
+            "candidatename": "高芸婷",
             "nosequence": 1,
             "gender": "F"
         },
         {
-            "drawno": 23,
-            "candidatename": "高成炎",
+            "drawno": 32,
+            "candidatename": "林詩涵",
             "nosequence": 2,
-            "gender": "M"
+            "gender": "F"
         },
         {
-            "drawno": 23,
-            "candidatename": "王浩宇",
+            "drawno": 32,
+            "candidatename": "閔柏陵",
             "nosequence": 3,
-            "gender": "M"
+            "gender": "F"
         },
         {
-            "drawno": 23,
+            "drawno": 33,
+            "candidatename": "鍾寶珠",
+            "nosequence": 1,
+            "gender": "F"
+        },
+        {
+            "drawno": 33,
             "candidatename": "李菁琪",
+            "nosequence": 2,
+            "gender": "F"
+        },
+        {
+            "drawno": 33,
+            "candidatename": "黃柔嘉",
+            "nosequence": 3,
+            "gender": "F"
+        },
+        {
+            "drawno": 33,
+            "candidatename": "吳伊婷",
             "nosequence": 4,
             "gender": "F"
         },
         {
-            "drawno": 23,
-            "candidatename": "張佑輔",
+            "drawno": 33,
+            "candidatename": "希婻·瑪飛洑",
             "nosequence": 5,
-            "gender": "M"
+            "gender": "F"
         },
         {
-            "drawno": 23,
+            "drawno": 33,
+            "candidatename": "林莉棻",
+            "nosequence": 6,
+            "gender": "F"
+        },
+        {
+            "drawno": 33,
+            "candidatename": "黃慧芬",
+            "nosequence": 7,
+            "gender": "F"
+        },
+        {
+            "drawno": 33,
             "candidatename": "張竹芩",
-            "nosequence": 6,
+            "nosequence": 8,
             "gender": "F"
         },
         {
-            "drawno": 2,
-            "candidatename": "滕西華",
+            "drawno": 25,
+            "candidatename": "蘇煥智",
             "nosequence": 1,
-            "gender": "F"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "李鴻鈞",
-            "nosequence": 2,
             "gender": "M"
         },
         {
-            "drawno": 2,
-            "candidatename": "宣明智",
+            "drawno": 25,
+            "candidatename": "劉亦恩",
+            "nosequence": 2,
+            "gender": "F"
+        },
+        {
+            "drawno": 25,
+            "candidatename": "張幸松",
             "nosequence": 3,
             "gender": "M"
         },
         {
-            "drawno": 2,
-            "candidatename": "劉宥彤",
+            "drawno": 25,
+            "candidatename": "江映瑤",
             "nosequence": 4,
             "gender": "F"
         },
         {
-            "drawno": 2,
-            "candidatename": "陳怡潔",
-            "nosequence": 5,
+            "drawno": 34,
+            "candidatename": "戴翊如",
+            "nosequence": 1,
             "gender": "F"
         },
         {
-            "drawno": 2,
-            "candidatename": "張碩文",
+            "drawno": 34,
+            "candidatename": "張靜",
+            "nosequence": 2,
+            "gender": "M"
+        },
+        {
+            "drawno": 34,
+            "candidatename": "李柏融",
+            "nosequence": 3,
+            "gender": "M"
+        },
+        {
+            "drawno": 34,
+            "candidatename": "尤瑞敏",
+            "nosequence": 4,
+            "gender": "F"
+        },
+        {
+            "drawno": 34,
+            "candidatename": "賴伯琦",
+            "nosequence": 5,
+            "gender": "M"
+        },
+        {
+            "drawno": 34,
+            "candidatename": "吳振橐",
             "nosequence": 6,
             "gender": "M"
         },
         {
-            "drawno": 2,
-            "candidatename": "施壽全",
+            "drawno": 34,
+            "candidatename": "晏揚清",
             "nosequence": 7,
             "gender": "M"
         },
         {
-            "drawno": 2,
-            "candidatename": "李海同",
+            "drawno": 34,
+            "candidatename": "許韶珍",
             "nosequence": 8,
-            "gender": "M"
+            "gender": "F"
         },
         {
-            "drawno": 2,
-            "candidatename": "蔡沁瑜",
+            "drawno": 34,
+            "candidatename": "楊啓珊",
             "nosequence": 9,
             "gender": "F"
         },
         {
-            "drawno": 2,
-            "candidatename": "高瀚",
-            "nosequence": 10,
-            "gender": "M"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "游文人",
-            "nosequence": 11,
-            "gender": "M"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "陳秀玲",
-            "nosequence": 12,
-            "gender": "F"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "黃文卿",
-            "nosequence": 13,
-            "gender": "M"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "李本玠",
-            "nosequence": 14,
-            "gender": "M"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "黎淑慧",
-            "nosequence": 15,
-            "gender": "F"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "彭瓊芳",
-            "nosequence": 16,
-            "gender": "F"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "劉宗夏",
-            "nosequence": 17,
-            "gender": "M"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "林昊宜",
-            "nosequence": 18,
-            "gender": "F"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "趙偉伶",
-            "nosequence": 19,
-            "gender": "F"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "蕭涵方",
-            "nosequence": 20,
-            "gender": "F"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "陳一夫",
-            "nosequence": 21,
-            "gender": "M"
-        },
-        {
-            "drawno": 2,
-            "candidatename": "吳方宜",
-            "nosequence": 22,
-            "gender": "F"
-        },
-        {
             "drawno": 24,
-            "candidatename": "賴香伶",
+            "candidatename": "黃珊珊",
             "nosequence": 1,
             "gender": "F"
         },
         {
             "drawno": 24,
-            "candidatename": "張其祿",
+            "candidatename": "黃國昌",
             "nosequence": 2,
             "gender": "M"
         },
         {
             "drawno": 24,
-            "candidatename": "高虹安",
+            "candidatename": "陳昭姿",
             "nosequence": 3,
             "gender": "F"
         },
         {
             "drawno": 24,
-            "candidatename": "邱臣遠",
+            "candidatename": "吳春城",
             "nosequence": 4,
             "gender": "M"
         },
         {
             "drawno": 24,
-            "candidatename": "蔡壁如",
+            "candidatename": "麥玉珍",
             "nosequence": 5,
-            "gender": "F"
-        },
-        {
-            "drawno": 24,
-            "candidatename": "楊博宇",
-            "nosequence": 6,
-            "gender": "M"
-        },
-        {
-            "drawno": 24,
-            "candidatename": "吳欣盈",
-            "nosequence": 7,
-            "gender": "F"
-        },
-        {
-            "drawno": 24,
-            "candidatename": "詹翔欽",
-            "nosequence": 8,
-            "gender": "M"
-        },
-        {
-            "drawno": 24,
-            "candidatename": "陳琬惠",
-            "nosequence": 9,
             "gender": "F"
         },
         {
             "drawno": 24,
             "candidatename": "林國成",
+            "nosequence": 6,
+            "gender": "M"
+        },
+        {
+            "drawno": 24,
+            "candidatename": "林憶君",
+            "nosequence": 7,
+            "gender": "F"
+        },
+        {
+            "drawno": 24,
+            "candidatename": "張啓楷",
+            "nosequence": 8,
+            "gender": "M"
+        },
+        {
+            "drawno": 24,
+            "candidatename": "劉書彬",
+            "nosequence": 9,
+            "gender": "F"
+        },
+        {
+            "drawno": 24,
+            "candidatename": "洪毓祥",
             "nosequence": 10,
             "gender": "M"
         },
         {
             "drawno": 24,
-            "candidatename": "孫智麗",
+            "candidatename": "蔡春綢",
             "nosequence": 11,
             "gender": "F"
         },
         {
             "drawno": 24,
-            "candidatename": "楊弘仁",
+            "candidatename": "王安祥",
             "nosequence": 12,
             "gender": "M"
         },
         {
             "drawno": 24,
-            "candidatename": "黃瀞瑩",
+            "candidatename": "邱慧洳",
             "nosequence": 13,
             "gender": "F"
         },
         {
             "drawno": 24,
-            "candidatename": "馮啟彥",
+            "candidatename": "陳清龍",
             "nosequence": 14,
             "gender": "M"
         },
         {
             "drawno": 24,
-            "candidatename": "江惠儀",
+            "candidatename": "李貞秀",
             "nosequence": 15,
             "gender": "F"
         },
         {
             "drawno": 24,
-            "candidatename": "羅義興",
+            "candidatename": "許忠信",
             "nosequence": 16,
             "gender": "M"
         },
         {
             "drawno": 24,
-            "candidatename": "陳思宇",
+            "candidatename": "徐瑞希",
             "nosequence": 17,
             "gender": "F"
         },
         {
             "drawno": 24,
-            "candidatename": "魏安國",
+            "candidatename": "楊弘意",
             "nosequence": 18,
             "gender": "M"
         },
         {
             "drawno": 24,
-            "candidatename": "李思慧",
+            "candidatename": "陳智菡",
             "nosequence": 19,
             "gender": "F"
         },
         {
             "drawno": 24,
-            "candidatename": "傅郁揚",
+            "candidatename": "莊貽量",
             "nosequence": 20,
             "gender": "M"
         },
         {
             "drawno": 24,
-            "candidatename": "何容君",
+            "candidatename": "林筱淇",
             "nosequence": 21,
             "gender": "F"
         },
         {
             "drawno": 24,
-            "candidatename": "端木正",
+            "candidatename": "蔡豐州",
             "nosequence": 22,
             "gender": "M"
         },
         {
             "drawno": 24,
-            "candidatename": "陳安芃",
+            "candidatename": "張雪如",
             "nosequence": 23,
             "gender": "F"
         },
         {
             "drawno": 24,
-            "candidatename": "何松穎",
+            "candidatename": "湯宏正",
             "nosequence": 24,
             "gender": "M"
         },
         {
             "drawno": 24,
-            "candidatename": "吳靜怡",
+            "candidatename": "林淑芬",
             "nosequence": 25,
             "gender": "F"
         },
         {
             "drawno": 24,
-            "candidatename": "李家齊",
+            "candidatename": "梁明輝",
             "nosequence": 26,
             "gender": "M"
         },
         {
             "drawno": 24,
-            "candidatename": "周芳如",
+            "candidatename": "廖維欣",
             "nosequence": 27,
             "gender": "F"
         },
         {
             "drawno": 24,
-            "candidatename": "張學瀚",
+            "candidatename": "馮啟彥",
             "nosequence": 28,
             "gender": "M"
         },
         {
-            "drawno": 10,
-            "candidatename": "潘建志",
-            "nosequence": 1,
+            "drawno": 24,
+            "candidatename": "林子宇",
+            "nosequence": 29,
+            "gender": "F"
+        },
+        {
+            "drawno": 24,
+            "candidatename": "張清俊",
+            "nosequence": 30,
+            "gender": "M"
+        },
+        {
+            "drawno": 24,
+            "candidatename": "林治華",
+            "nosequence": 31,
+            "gender": "F"
+        },
+        {
+            "drawno": 24,
+            "candidatename": "李家豪",
+            "nosequence": 32,
+            "gender": "M"
+        },
+        {
+            "drawno": 24,
+            "candidatename": "邱于珊",
+            "nosequence": 33,
+            "gender": "F"
+        },
+        {
+            "drawno": 24,
+            "candidatename": "周榆修",
+            "nosequence": 34,
             "gender": "M"
         },
         {
             "drawno": 10,
             "candidatename": "周倪安",
-            "nosequence": 2,
+            "nosequence": 1,
             "gender": "F"
         },
         {
             "drawno": 10,
             "candidatename": "劉一德",
-            "nosequence": 3,
-            "gender": "M"
-        },
-        {
-            "drawno": 10,
-            "candidatename": "蔡以新",
-            "nosequence": 4,
-            "gender": "F"
-        },
-        {
-            "drawno": 10,
-            "candidatename": "潘厚勳",
-            "nosequence": 5,
+            "nosequence": 2,
             "gender": "M"
         },
         {
             "drawno": 10,
             "candidatename": "歐陽瑞蓮",
-            "nosequence": 6,
+            "nosequence": 3,
             "gender": "F"
         },
         {
             "drawno": 10,
-            "candidatename": "高基讚",
-            "nosequence": 7,
-            "gender": "M"
-        },
-        {
-            "drawno": 25,
-            "candidatename": "賀德芬",
-            "nosequence": 1,
-            "gender": "F"
-        },
-        {
-            "drawno": 25,
-            "candidatename": "萬淑娟",
-            "nosequence": 2,
-            "gender": "F"
-        },
-        {
-            "drawno": 25,
-            "candidatename": "曾吉郎",
-            "nosequence": 3,
-            "gender": "M"
-        },
-        {
-            "drawno": 25,
-            "candidatename": "蔡惠蘭",
+            "candidatename": "王思棠",
             "nosequence": 4,
-            "gender": "F"
+            "gender": "M"
         },
         {
-            "drawno": 25,
-            "candidatename": "詹昭能",
+            "drawno": 10,
+            "candidatename": "張登凱",
             "nosequence": 5,
             "gender": "M"
         },
         {
-            "drawno": 25,
-            "candidatename": "蘇煥智",
+            "drawno": 10,
+            "candidatename": "吳家慶",
             "nosequence": 6,
             "gender": "M"
         },
         {
-            "drawno": 26,
-            "candidatename": "鄭自才",
+            "drawno": 35,
+            "candidatename": "林東雄",
             "nosequence": 1,
             "gender": "M"
         },
         {
-            "drawno": 26,
-            "candidatename": "黃聖峰",
+            "drawno": 35,
+            "candidatename": "賴方靜靜",
             "nosequence": 2,
-            "gender": "M"
-        },
-        {
-            "drawno": 26,
-            "candidatename": "楊神龍",
-            "nosequence": 3,
-            "gender": "M"
-        },
-        {
-            "drawno": 26,
-            "candidatename": "林碧如",
-            "nosequence": 4,
             "gender": "F"
         },
         {
-            "drawno": 8,
-            "candidatename": "謝啟大",
+            "drawno": 36,
+            "candidatename": "林麗容",
             "nosequence": 1,
             "gender": "F"
         },
         {
-            "drawno": 8,
-            "candidatename": "丁炳仁",
+            "drawno": 36,
+            "candidatename": "石人仁",
             "nosequence": 2,
             "gender": "M"
         },
         {
-            "drawno": 8,
-            "candidatename": "何建華",
+            "drawno": 36,
+            "candidatename": "張怡菁",
             "nosequence": 3,
             "gender": "F"
         },
         {
-            "drawno": 8,
-            "candidatename": "馬銀海",
+            "drawno": 36,
+            "candidatename": "古文發",
             "nosequence": 4,
             "gender": "M"
         },
         {
-            "drawno": 8,
-            "candidatename": "李承龍",
+            "drawno": 36,
+            "candidatename": "黃千明",
             "nosequence": 5,
             "gender": "M"
-        },
-        {
-            "drawno": 8,
-            "candidatename": "張瑜庭",
-            "nosequence": 6,
-            "gender": "F"
-        },
-        {
-            "drawno": 8,
-            "candidatename": "張安樂",
-            "nosequence": 7,
-            "gender": "M"
-        },
-        {
-            "drawno": 27,
-            "candidatename": "林秀霞",
-            "nosequence": 1,
-            "gender": "F"
-        },
-        {
-            "drawno": 27,
-            "candidatename": "施正鋒",
-            "nosequence": 2,
-            "gender": "M"
-        },
-        {
-            "drawno": 27,
-            "candidatename": "高大成",
-            "nosequence": 3,
-            "gender": "M"
-        },
-        {
-            "drawno": 27,
-            "candidatename": "李素貞",
-            "nosequence": 4,
-            "gender": "F"
-        },
-        {
-            "drawno": 27,
-            "candidatename": "張君瑜",
-            "nosequence": 5,
-            "gender": "F"
-        },
-        {
-            "drawno": 27,
-            "candidatename": "林東徵",
-            "nosequence": 6,
-            "gender": "M"
-        },
-        {
-            "drawno": 16,
-            "candidatename": "邱毅",
-            "nosequence": 1,
-            "gender": "M"
-        },
-        {
-            "drawno": 16,
-            "candidatename": "陳麗玲",
-            "nosequence": 2,
-            "gender": "F"
-        },
-        {
-            "drawno": 16,
-            "candidatename": "沈采穎",
-            "nosequence": 3,
-            "gender": "F"
-        },
-        {
-            "drawno": 16,
-            "candidatename": "王炳忠",
-            "nosequence": 4,
-            "gender": "M"
-        },
-        {
-            "drawno": 16,
-            "candidatename": "賀樺",
-            "nosequence": 5,
-            "gender": "F"
-        },
-        {
-            "drawno": 16,
-            "candidatename": "林明正",
-            "nosequence": 6,
-            "gender": "M"
-        },
-        {
-            "drawno": 16,
-            "candidatename": "黃乃芸",
-            "nosequence": 7,
-            "gender": "F"
-        },
-        {
-            "drawno": 16,
-            "candidatename": "龐文楚",
-            "nosequence": 8,
-            "gender": "M"
-        },
-        {
-            "drawno": 16,
-            "candidatename": "郝永瑞",
-            "nosequence": 9,
-            "gender": "F"
-        },
-        {
-            "drawno": 16,
-            "candidatename": "楊世光",
-            "nosequence": 10,
-            "gender": "M"
-        },
-        {
-            "drawno": 28,
-            "candidatename": "彭迦智",
-            "nosequence": 1,
-            "gender": "M"
-        },
-        {
-            "drawno": 28,
-            "candidatename": "龍傅若瑋",
-            "nosequence": 2,
-            "gender": "F"
-        },
-        {
-            "drawno": 28,
-            "candidatename": "郝淑薏",
-            "nosequence": 3,
-            "gender": "F"
-        },
-        {
-            "drawno": 28,
-            "candidatename": "廖金河",
-            "nosequence": 4,
-            "gender": "M"
-        },
-        {
-            "drawno": 28,
-            "candidatename": "孫成玉",
-            "nosequence": 5,
-            "gender": "F"
-        },
-        {
-            "drawno": 28,
-            "candidatename": "張宜興",
-            "nosequence": 6,
-            "gender": "M"
-        },
-        {
-            "drawno": 28,
-            "candidatename": "周美雲",
-            "nosequence": 7,
-            "gender": "F"
-        },
-        {
-            "drawno": 28,
-            "candidatename": "林傑忠",
-            "nosequence": 8,
-            "gender": "M"
-        },
-        {
-            "drawno": 29,
-            "candidatename": "陳昭姿",
-            "nosequence": 1,
-            "gender": "F"
-        },
-        {
-            "drawno": 29,
-            "candidatename": "鄭新助",
-            "nosequence": 2,
-            "gender": "M"
-        },
-        {
-            "drawno": 29,
-            "candidatename": "朱孟庠",
-            "nosequence": 3,
-            "gender": "F"
-        },
-        {
-            "drawno": 29,
-            "candidatename": "楊其文",
-            "nosequence": 4,
-            "gender": "M"
-        },
-        {
-            "drawno": 29,
-            "candidatename": "張文翊",
-            "nosequence": 5,
-            "gender": "F"
-        },
-        {
-            "drawno": 29,
-            "candidatename": "陳水扁",
-            "nosequence": 6,
-            "gender": "M"
-        },
-        {
-            "drawno": 30,
-            "candidatename": "朱竹元",
-            "nosequence": 1,
-            "gender": "M"
-        },
-        {
-            "drawno": 30,
-            "candidatename": "陳曉虹",
-            "nosequence": 2,
-            "gender": "F"
-        },
-        {
-            "drawno": 30,
-            "candidatename": "毛嘉慶",
-            "nosequence": 3,
-            "gender": "M"
-        },
-        {
-            "drawno": 30,
-            "candidatename": "馮瑞珠",
-            "nosequence": 4,
-            "gender": "F"
-        },
-        {
-            "drawno": 30,
-            "candidatename": "裘佩恩",
-            "nosequence": 5,
-            "gender": "M"
-        },
-        {
-            "drawno": 30,
-            "candidatename": "林秋屏",
-            "nosequence": 6,
-            "gender": "F"
-        },
-        {
-            "drawno": 30,
-            "candidatename": "吳蕚洋",
-            "nosequence": 7,
-            "gender": "M"
-        },
-        {
-            "drawno": 30,
-            "candidatename": "李允佳",
-            "nosequence": 8,
-            "gender": "F"
-        },
-        {
-            "drawno": 30,
-            "candidatename": "洪正一",
-            "nosequence": 9,
-            "gender": "M"
-        },
-        {
-            "drawno": 30,
-            "candidatename": "蘇美玲",
-            "nosequence": 10,
-            "gender": "F"
         }
     ]
 }
